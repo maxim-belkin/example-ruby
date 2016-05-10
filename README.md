@@ -1,3 +1,3 @@
 # Example Ruby
 
-An example ruby repo for using GitHub and Travis-CI.
+An example ruby repo for using GitHub and Travis-CI and maybe show slack as well!
